@@ -1,0 +1,30 @@
+.start{
+    text-align:center;
+}
+
+.clear{
+    text-align:center;
+}
+
+img{
+    object-fit:contain;
+}
+
+.a1{
+    position:absolute;
+}
+
+.a2{
+    position:absolute;
+}
+
+.close{
+    display:none;
+}
+
+
+
+
+.open{
+    display:inline;
+}
